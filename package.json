@@ -1,0 +1,18 @@
+{
+  "name": "webgl-gallery",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "gsap": "^3.12.5",
+    "normalize-wheel": "^1.0.1",
+    "three": "^0.164.1",
+    "vite": "^5.1.0",
+    "vite-plugin-glsl": "^1.3.0"
+  }
+}
